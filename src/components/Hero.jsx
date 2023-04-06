@@ -18,7 +18,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Creating<span className="text-[#ffffff]"> Values</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`${styles.heroSubText} mt-2 text-[#a79e9e]`}>
             <br className="sm:block hidden" />
             With A Global Mindset
           </p>
@@ -27,7 +27,7 @@ const Hero = () => {
 
       <ComputersCanvas />
 
-      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+      {/* <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div
@@ -43,7 +43,7 @@ const Hero = () => {
             />
           </div>
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };
