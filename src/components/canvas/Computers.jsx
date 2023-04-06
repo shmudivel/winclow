@@ -59,13 +59,14 @@ const ComputersCanvas = () => {
         frameloop="demand"
         shadows
         dpr={[1, 2]}
-        camera={{ position: [60, 60, 60], fov: 100 }}
+        camera={{ position: [50, 50, 50], fov: 120 }}
         gl={{ preserveDrawingBuffer: true }}
       >
         <Suspense fallback={<CanvasLoader />}>
           <OrbitControls
             //prevents from zooming in
-            enableZoom={true}
+            enableZoom={false}
+            autoRotate
             //prevent rotation up and down
             maxPolarAngle={Math.PI / 2}
             minPolarAngle={Math.PI / 2}
