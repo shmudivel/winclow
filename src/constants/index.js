@@ -160,19 +160,8 @@ const experiences = [
       "4. Fast Development",
       "5. Social Media Business Pages",
       "6. SEO optimization",
-      "7. Facebook / instagram ads",
-    ],
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "Self-employed",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Mar 2022 - Present",
-    points: [
-      "The focus of my career has shifted to Web Development, driven by a desire for a more creative work environment and the vast opportunities presented by software development",
-      "As a self-taught coding enthusiast, my portfolio includes projects such as a package calculator, technical dictionary for the mining industry, and time zones scheduler",
-      "Through attending local meet-up events in the US, I was able to network with some of the most skilled IT specialists in the industry. These experiences helped me stay current with the latest trends and be more involved in the field",
+      "7. Full Funnel Advertising",
+      "8. Social Media Handled ",
     ],
   },
 ];
