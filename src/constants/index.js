@@ -136,7 +136,7 @@ const experiences = [
     company_name: "Profectus",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2015 - Nov 2020",
+    date: "Here should be the link to contact me 'Lets talk about it'",
     points: [
       "1. Hosting and Domain",
       "2. Incredible Web design",
@@ -152,7 +152,7 @@ const experiences = [
     company_name: "Excellentia",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Dec 2020 - Feb 2022",
+    date: "Here should be the link to contact me 'Lets talk about it'",
     points: [
       "1. Hosting and Domain",
       "2. Incredible Web design",
