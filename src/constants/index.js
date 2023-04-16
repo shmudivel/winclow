@@ -135,7 +135,7 @@ const experiences = [
     title: "Increase sales",
     company_name: "Profectus",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     date: "Here should be the link to contact me 'Lets talk about it'",
     points: [
       "1. Hosting and Domain",
