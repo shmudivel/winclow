@@ -52,6 +52,9 @@ const ExperienceCard = ({ experience }) => {
             {point}
           </li>
         ))}
+        <h1 className="bg-[#383E56] my-5 py-3 px-8  outline-none w-fit text-white ">
+          Let’s talk about it
+        </h1>
       </ul>
     </VerticalTimelineElement>
   );
