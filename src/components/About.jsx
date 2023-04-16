@@ -62,6 +62,9 @@ const About = () => {
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
       </div>
+      <h1 className="bg-[#383E56] my-5 py-3 px-8  outline-none w-fit text-white ">
+        Read more...
+      </h1>
     </>
   );
 };
