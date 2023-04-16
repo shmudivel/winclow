@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Initium",
     icon: starbucks,
     iconBg: "#383E56",
-    date: " Here should be the link to contact me 'Lets talk about it'",
+    date: "Quick, affordable, straightforward.",
     points: [
       "1. Hosting and Domain",
       "2. Incredible Web design",
@@ -136,7 +136,7 @@ const experiences = [
     company_name: "Profectus",
     icon: tesla,
     iconBg: "#383E56",
-    date: "Here should be the link to contact me 'Lets talk about it'",
+    date: "Agile, competitive, customer-centric.",
     points: [
       "1. Hosting and Domain",
       "2. Incredible Web design",
@@ -152,7 +152,7 @@ const experiences = [
     company_name: "Excellentia",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Here should be the link to contact me 'Lets talk about it'",
+    date: "Upgrade, amplify, succeed.",
     points: [
       "1. Hosting and Domain",
       "2. Incredible Web design",
