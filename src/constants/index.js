@@ -169,7 +169,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Darkhan is like a ninja. He can stealthily fix bugs and optimize code without anyone ever knowing they were there.",
+      "I highly recommend Winclow for their impressive attention to detail, innovative ideas, unique pricing structure, and measurable results. I will work with them again for my next venture.",
     name: "Fara Lee",
     designation: "CFO",
     company: "Costa Co",
@@ -177,7 +177,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Darkhan does.",
+      "Working with Winclow was a pleasure. They efficiently transformed my complex idea into a high-quality web responsive app in record time. Special thanks to Al for the excellent support. Winclow also helped with promotion, helping me achieve my financial goals earlier than expected.",
     name: "Chris Sherlov",
     designation: "COO",
     company: "Devan Corp",
@@ -185,7 +185,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Darkhan is like a rockstar, but instead of shredding on a guitar, he is shredding our website's loading times to pieces.",
+      "Winclow team exceeded our expectations by providing exceptional website development services and valuable insights into internet marketing strategy. Our new website, a key point of introduction for new clients, has transformed our firm's image. We highly recommend their exceptional work.",
     name: "Lil Wang",
     designation: "CTO",
     company: "CatInspections Inc",
