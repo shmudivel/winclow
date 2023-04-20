@@ -121,7 +121,7 @@ const experiences = [
     title: "Business",
     company_name: "Initium",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#000",
     date: "Quick, affordable, straightforward.",
     points: [
       "1. Hosting and Domain",
@@ -135,7 +135,7 @@ const experiences = [
     title: "Increase sales",
     company_name: "Profectus",
     icon: tesla,
-    iconBg: "#383E56",
+    iconBg: "#000",
     date: "Agile, competitive, customer-centric.",
     points: [
       "1. Hosting and Domain",
@@ -151,7 +151,7 @@ const experiences = [
     title: "Maximum revenue",
     company_name: "Excellentia",
     icon: shopify,
-    iconBg: "#383E56",
+    iconBg: "#000",
     date: "Upgrade, amplify, succeed.",
     points: [
       "1. Hosting and Domain",
