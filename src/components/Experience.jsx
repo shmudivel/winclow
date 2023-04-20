@@ -19,7 +19,7 @@ const ExperienceCard = ({ experience }) => {
         //black bg color for the card
         background: "#000000",
         color: "#fff",
-        border: "4px solid white",
+        border: "1px solid white",
         borderRadius: "0px",
       }}
       contentArrowStyle={{ borderRight: "0px solid white" }}
@@ -55,7 +55,7 @@ const ExperienceCard = ({ experience }) => {
           </li>
         ))}
 
-        <h1 className="bg-[#383E56] my-5 py-3 px-8  outline-none w-fit text-white ">
+        <h1 className="bg-black border border-white my-5 py-3 px-8  w-fit text-white ">
           Let’s talk about it
         </h1>
       </ul>
